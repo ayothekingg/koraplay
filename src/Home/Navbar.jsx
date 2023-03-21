@@ -80,16 +80,16 @@ const Navbar = ({ darkMode, toggleDarkMode }) => {
               <path
                 d="M16 22.5C19.5899 22.5 22.5 19.5899 22.5 16C22.5 12.4101 19.5899 9.5 16 9.5C12.4101 9.5 9.5 12.4101 9.5 16C9.5 19.5899 12.4101 22.5 16 22.5Z"
                 stroke="white"
-                stroke-width="1.5"
-                stroke-linecap="round"
-                stroke-linejoin="round"
+                strokeWidth="1.5"
+                strokeLinecap="round"
+                strokeLinejoin="round"
               />
               <path
                 d="M23.14 23.14L23.01 23.01M23.01 8.99L23.14 8.86L23.01 8.99ZM8.86 23.14L8.99 23.01L8.86 23.14ZM16 6.08V6V6.08ZM16 26V25.92V26ZM6.08 16H6H6.08ZM26 16H25.92H26ZM8.99 8.99L8.86 8.86L8.99 8.99Z"
                 stroke="white"
-                stroke-width="2"
-                stroke-linecap="round"
-                stroke-linejoin="round"
+                strokeWidth="2"
+                strokeLinecap="round"
+                strokeLinejoin="round"
               />
               <rect x="40" y="4" width="24" height="24" rx="12" fill="white" />
             </svg>
@@ -108,9 +108,9 @@ const Navbar = ({ darkMode, toggleDarkMode }) => {
               <path
                 d="M42.03 16.42C42.39 21.57 46.76 25.76 51.99 25.99C55.68 26.15 58.98 24.43 60.96 21.72C61.78 20.61 61.34 19.87 59.97 20.12C59.3 20.24 58.61 20.29 57.89 20.26C53 20.06 49 15.97 48.98 11.14C48.97 9.83996 49.24 8.60996 49.73 7.48996C50.27 6.24996 49.62 5.65996 48.37 6.18996C44.41 7.85996 41.7 11.85 42.03 16.42Z"
                 stroke="white"
-                stroke-width="1.5"
-                stroke-linecap="round"
-                stroke-linejoin="round"
+                strokeWidth="1.5"
+                strokeLinecap="round"
+                strokeLinejoin="round"
               />
             </svg>
           )}

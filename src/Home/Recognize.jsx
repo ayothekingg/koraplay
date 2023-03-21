@@ -35,22 +35,22 @@ const Recognize = () => {
                     height="64"
                     rx="32"
                     fill="white"
-                    fill-opacity="0.12"
+                    fillOpacity="0.12"
                   />
                   <circle
                     cx="31.5"
                     cy="32.9434"
                     r="26.5"
                     fill="white"
-                    fill-opacity="0.12"
+                    fillOpacity="0.12"
                   />
                   <circle cx="32.5" cy="32.9434" r="18.5" fill="white" />
                   <path
                     d="M24 32.4434L29.6569 38.1003L40.97 26.7865"
                     stroke="#7E3FEA"
-                    stroke-width="3"
-                    stroke-linecap="round"
-                    stroke-linejoin="round"
+                    strokeWidth="3"
+                    strokeLinecap="round"
+                    strokeLinejoin="round"
                   />
                 </svg>
 
@@ -72,22 +72,22 @@ const Recognize = () => {
                     height="64"
                     rx="32"
                     fill="white"
-                    fill-opacity="0.12"
+                    fillOpacity="0.12"
                   />
                   <circle
                     cx="31.5"
                     cy="32.9434"
                     r="26.5"
                     fill="white"
-                    fill-opacity="0.12"
+                    fillOpacity="0.12"
                   />
                   <circle cx="32.5" cy="32.9434" r="18.5" fill="white" />
                   <path
                     d="M24 32.4434L29.6569 38.1003L40.97 26.7865"
                     stroke="#7E3FEA"
-                    stroke-width="3"
-                    stroke-linecap="round"
-                    stroke-linejoin="round"
+                    strokeWidth="3"
+                    strokeLinecap="round"
+                    strokeLinejoin="round"
                   />
                 </svg>
 
