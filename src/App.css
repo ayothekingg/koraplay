@@ -1,0 +1,13 @@
+.dark nav {
+  @apply bg-black !important;
+}
+.dark section {
+  @apply bg-black !important;
+}
+
+.dark span {
+  @apply text-primary;
+}
+.dark button {
+  @apply bg-white text-primary;
+}
