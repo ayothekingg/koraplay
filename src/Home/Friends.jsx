@@ -1,4 +1,4 @@
-import friend from "./Friends.png";
+import friend from "./friends.png";
 
 const Friends = () => {
   return (
